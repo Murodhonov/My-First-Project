@@ -1,0 +1,2 @@
+rootProject.name = "Codial Project"
+include ':app'

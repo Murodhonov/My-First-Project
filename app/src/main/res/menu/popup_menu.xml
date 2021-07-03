@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editor"
+        android:title="Tahrirlash"
+        android:icon="@drawable/ic_baseline_edit_24"/>
+    <item
+        android:id="@+id/delete"
+        android:title="O'chirish"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item
+        android:id="@+id/send_sms"
+        android:title="Habar yuborish"
+        android:icon="@drawable/ic_baseline_send_24"/>
+
+</menu>
